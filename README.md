@@ -45,8 +45,3 @@ _“Cada línea de código mejora con café y propósito.”_
 ## 📫 Contacto  
 💖 [GitHub](https://github.com/valverdeS7) • [LinkedIn](https://www.linkedin.com/)
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFoM2p4dXUydTYwNGV6bGlqZTFxZWVlcHl0YjJrYXRrMmx0YXB5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8YutMatqkTfA4/giphy.gif" width="120" alt="Cute pink laptop" />
-</p>
